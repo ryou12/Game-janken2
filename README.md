@@ -2,42 +2,33 @@ Gamejanken2
 
 ====
 
+#操作説明
 
-This Gamejanken fight with a computer
-Your destiny force is tried
-Let's play games
+あなたの出したい選択を”グー”　”チョキ”　”パー”から選びボタンをクリックします。  
+画面がとまりコンピュータとのジャンケン行われ、テキストで勝負の判定がわかります
+もう一度じゃんけんをしたい場合は再選ボタンをおしてください
+
+
+
+
 
 
 
 Overview
 
-##�����o�[
+##メンバー
 
-*DirectX12(�v���O����)
+*DirectX12(プログラマー)
 
-*ryou12(�v���O����)
+*ryou12(プログラマー)
 
-*royce000()
+*royce000(プログラマー)
 
-*nomura-yp(�f�U�C��)
+*nomura-yp(デザイン)
 
-*oyasuminasai-L(�f�U�C��)
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-## Author
+*oyasuminasai-L(デザイン)
 
 
+#開発環境
 
+javascript
