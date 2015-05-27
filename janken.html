@@ -10,6 +10,7 @@ font-size: 50px;
 vertical-align: middle}
 </style>  
 <title>じゃんけん</title>
+<embed id="bgm" src="bgm/tamco08-s.mp3" repeat="true" loop="infinity" autostart="true" hidden="true"></embed>
 </head>
 <body>
 <h3>じゃんけん</h3>
@@ -35,7 +36,7 @@ vertical-align: middle}
 <td colspan="3" align="center"><font color="#FFFFFF"><div id="message"></div></font></td>
 </tr>
 <tr>
-<th><input type="button" style="position: absolute; right: 500px; top: 70px" onClick="getbhand(0)" value="グー"></th>
+<th><input type="image" src="" style="position: absolute; right: 500px; top: 70px" onClick="getbhand(0)" name="グー" alt=""></th>
 <th><input type="button" style="position: absolute; right: 500px; top: 215px" onClick="getbhand(1)" value="チョキ"></th>
 <th><input type="button" style="position: absolute; right: 500px; top: 360px" onClick="getbhand(2)" value="パー"></th>
 </tr>
@@ -47,7 +48,7 @@ vertical-align: middle}
 </tr>
 </table>
 <script type="text/javascript">
-hand = new Array("gu.png","ch.png","pa.png");
+hand = new Array("img/gu.png","img/tyoki.png","pa.png");
 msg = new Array("なにをだそうかな？","かった～！！","まけちゃったよ","あいこだよ");
 
  timer = 0;
