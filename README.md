@@ -3,41 +3,23 @@ Gamejanken2
 ====
 
 
-This Gamejanken fight with a computer
-Your destiny force is tried
-Let's play games
+
 
 
 
 Overview
 
-##ƒƒ“ƒo[
+##ãƒ¡ãƒ³ãƒãƒ¼
 
-*DirectX12(ƒvƒƒOƒ‰ƒ€)
+*DirectX12(ãƒ—ãƒ­ã‚°ãƒ©ãƒ )
 
-*ryou12(ƒvƒƒOƒ‰ƒ€)
+*ryou12(ãƒ—ãƒ­ã‚°ãƒ©ãƒ )
 
 *royce000()
 
-*nomura-yp(ƒfƒUƒCƒ“)
+*nomura-yp(ãƒ‡ã‚¶ã‚¤ãƒ³)
 
-*oyasuminasai-L(ƒfƒUƒCƒ“)
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-## Author
+*oyasuminasai-L(ãƒ‡ã‚¶ã‚¤ãƒ³)
 
 
-
+#é–‹ç™ºç’°å¢ƒ
